@@ -1,0 +1,6 @@
+cd /c/xampp/htdocs
+
+1. Gawa ka ng index.html file sa folder na yan
+2. Git add index.html
+3. Git commit -m "added index.html"
+4. Git push origin master
